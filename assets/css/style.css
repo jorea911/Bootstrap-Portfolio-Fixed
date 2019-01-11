@@ -67,13 +67,10 @@ position: absolute;
 
 position: relative;
 margin: auto;
+}
 
-
-
-
-
-
-
-
+#photo {
+    width: 40%;
+    height: 250px;
 
 }
